@@ -1,2 +1,2 @@
-# final-portfolio
+# personal-website
 Created with CodeSandbox
